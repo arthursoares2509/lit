@@ -82,13 +82,6 @@ Another massive O'Reilley textbook. I used this to learn the basics of SQL and s
 If you're self-taught like me, you probably developed a scattered knowledge of the useful bits of programming/engineering without knowing the fundamentals. However, like me, you probably had lurking doubts about "how this stuff actually works" - this book will calm your worried mind. Starting with the basics of electricity and circuits, this book moves slowly and carefully through the fundamental hardware pieces, logic gates, and assembly so that by the end you'll finally understand how code __actually__ works.
 
 
-### Grokking Algorithms
-
-[link](https://github.com/camoverride/lit/blob/master/Grokking-Algorithms.pdf)
-
-A gentle introduction to computer algorithms and analysis. This book covers all the basic problems you'll encounter in an undergraduate compsci algorithms class: Big O, the traveling salesman problem, dynamic programming, linked lists, etc. If you're totally new to "algorithms" (in the SWE interview sense) this is the place to start. Also: the previous book, _Code_, takes us from electricity to programming languages - but ends before any algorithms are introduced.
-
-
 ### Cracking the Coding Interview
 
 [link](https://github.com/camoverride/lit/blob/master/Cracking-the-Coding-Interview.pdf)
